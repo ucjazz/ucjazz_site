@@ -2,9 +2,9 @@
 
 The UC Jazz Ensembles website, built with Jekyll and hosted by OCF on campus at UC Berkeley.
 
-Based on:
+### Based on:
 
-Spectral by HTML5 UP
+#### Spectral by HTML5 UP
 html5up.net | @n33co
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
@@ -41,7 +41,7 @@ AJ
 n33.co @n33co dribbble.com/n33
 
 
-Credits:
+### Credits
 
 	Demo Images:
 		Unsplash (unsplash.com)
