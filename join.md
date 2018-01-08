@@ -50,6 +50,8 @@ UC Jazz holds individual auditions for all new members. The list of audition req
 
 ## Attendance Policy
 
+<span class="image right"><img src="images/sax.jpg" alt="" /></span>
+
 When you participate in UC Jazz, it is important that you are aware of our attendance policy. Attendance is <b>mandatory!</b> This means that barring extreme events we will expect you to be at all rehearsals.
 
 UC Jazz follows the "three strikes" model for missing rehearsals. You are permitted to miss two rehearsals a semester for legitimate reasons. After the third miss, you will be subject to review and may lose your place in UC Jazz.
@@ -69,3 +71,6 @@ In addition to playing in our combos, you can become even more involved by joini
 ## Music Department Credit
 
 It is possible for Music Majors only to receive credit for participation in UC Jazz, when chosen as an ensemble elective. Please check with the <a href="http://music.berkeley.edu/">Music Department</a> for further information and with any qualification questions.
+
+<div class="12u"><span class="image fit"><img src="images/keys.jpg" alt="" /></span></div>
+

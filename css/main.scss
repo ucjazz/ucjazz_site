@@ -1245,6 +1245,13 @@ $baseurl: '{{ site.baseurl }}/images';
 
 		&.style2 {
 			background-color: _palette(bg);
+			// background-color: red;			
+			.top {
+				// color: red;
+				padding-top: 3rem;
+				padding-bottom: 1.5rem;
+				text-align: center;
+			}
 		}
 
 		&.style3 {

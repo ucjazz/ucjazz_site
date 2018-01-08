@@ -7,8 +7,12 @@ title: Resources
 
 Combo rehearsals are held in the large and small jazz studios. Students may practice in the studios when combos are not scheduled. Please refer to the schedule below. If you would like to reserve a studio, please contact Ted Moore or inquire in the Student Musical Activities Office in Room 72 about availability.
 
+<div class="12u"><span class="image fit"><img src="images/studio.jpg" alt="" /></span></div>
+
 ## Equipment 
 
+<!-- <span class="image left"><img src="images/keys.jpg" alt="" /></span>
+ -->
 UC Jazz members generally provide their own instruments, but some instruments are available. Thanks to a generous donation by the Cal Alumni Big Band, we have a new Yamaha vibraphone set. We also have two drum kits, a double-bass, an upright and grand piano, and several amplifiers for guitarists, bassists, and singers.
 
 We only provide equipment for on and off campus UC Jazz gigs. We do not lend out equipment for personal gigs! If you need any equipment for a gig, it must be sponsored by UC Jazz and go through the booking process.
