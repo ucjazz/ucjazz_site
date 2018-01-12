@@ -2711,3 +2711,40 @@ body.is-mobile.landing #footer {
   width: 70%;
   max-width: 300px;
   padding-bottom: 2rem; }
+
+/* Modal for instructors bios */
+/* The Modal (background) */
+.modal {
+  visibility: hidden;
+  opacity: 0;
+  position: fixed;
+  /* Stay in place */
+  z-index: 1;
+  /* Sit on top */
+  padding-top: 100px;
+  /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%;
+  /* Full width */
+  height: 100%;
+  /* Full height */
+  overflow: auto;
+  /* Enable scroll if needed */
+  background-color: rgba(0, 0, 0, 0.4);
+  /* Black w/ opacity */
+  transition: visibility 0.2s, opacity 0.2s linear; }
+
+/* Modal Content */
+.modal-content {
+  background-color: #2e3842;
+  margin: auto;
+  padding: 20px;
+  width: 60em;
+  margin: 0 auto; }
+  @media screen and (max-width: 1280px) {
+    .modal-content {
+      width: 90%; } }
+  @media screen and (max-width: 980px) {
+    .modal-content {
+      width: 100%; } }

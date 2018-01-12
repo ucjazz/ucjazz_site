@@ -58,35 +58,48 @@ layout: landing
 					<section id="three" class="wrapper style3 special">
 						<div class="inner">
 							<header class="major">
-								<h2>Instructors</h2>
+								<h2>Instructors</h2><br>
 								<!-- <p>Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend<br />
 								fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.</p> -->
 							</header>
+
+							<!-- Include modals for each instructor bio -->
+							{% include bios/ted_bio.html %}
+							{% include bios/frank_bio.html %}
+							{% include bios/glenn_bio.html %}
+							{% include bios/marty_bio.html %}
+							{% include bios/dann_bio.html %}
+
 							<ul class="features">
 								<li>
 									<img class="headshot" src="images/headshots/instructors/ted.jpg">
 									<h3>Ted Moore</h3>
 									<p><i>UC Jazz Director - Percussion</i><br>Advanced and Intermediate Combos</p>
+									<button id="tedBtn">Learn <i>Moore</i></button>
 								</li>
 								<li>
 									<img class="headshot" src="images/headshots/instructors/frank.jpg">
 									<h3>Frank Martin</h3>
 									<p><i>Piano</i><br>Advanced Combo</p>
+									<button id="frankBtn">Learn More</button>
 								</li>
 								<li>
 									<img class="headshot" src="images/headshots/instructors/glenn.jpg">
 									<h3>Glenn Richman</h3>
 									<p><i>Bass</i><br>Intermediate Combo</p>
+									<button id="glennBtn">Learn More</button>
 								</li>
 								<li>
 									<img class="headshot" src="images/headshots/instructors/marty.jpg">
 									<h3>Marty Wehner</h3>
 									<p><i>Trombone</i><br>Intermediate Combo</p>
+									<button id="martyBtn">Learn More</button>
 								</li>
 								<li>
 									<img class="headshot" src="images/headshots/instructors/dann.jpg">
 									<h3>Dann Zinn</h3>
 									<p><i>Saxophone</i><br>Advanced Combo</p>
+									<button id="dannBtn">Learn More</button>
 								</li>
 								<li>
 								</li>

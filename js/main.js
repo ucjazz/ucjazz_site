@@ -4,6 +4,7 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+
 (function($) {
 
 	skel
@@ -15,14 +16,73 @@
 			xsmall:	'(max-width: 480px)'
 		});
 
-	$(function() {
+	$(function() { // when the document is ready (has loaded)
 
 		var	$window = $(window),
 			$body = $('body'),
 			$wrapper = $('#page-wrapper'),
 			$banner = $('#banner'),
-			$header = $('#header');
+			$header = $('#header'),
 
+			// modals
+			$modals = $(".modal"),
+
+			$tedModal = $("#tedModal"), //ted's
+			$tedBtn = $("#tedBtn"),
+
+			$frankModal = $("#frankModal"), //frank's
+			$frankBtn = $("#frankBtn"),
+
+			$glennModal = $("#glennModal"), //glenn's
+			$glennBtn = $("#glennBtn"),
+
+			$martyModal = $("#martyModal"), //marty's
+			$martyBtn = $("#martyBtn"),
+
+			$dannModal = $("#dannModal"), //dann's
+			$dannBtn = $("#dannBtn"),
+
+			$span = $(".close");
+
+		// Modal for instructor bios
+			$tedBtn.click(function(){
+    			// $tedModal.css("display","block");
+    			$tedModal.css("visibility","visible");
+    			$tedModal.css("opacity","1");
+			});
+
+			$frankBtn.click(function(){
+    			$frankModal.css("visibility","visible");
+    			$frankModal.css("opacity","1");
+			});
+
+			$glennBtn.click(function(){
+    			$glennModal.css("visibility","visible");
+    			$glennModal.css("opacity","1");
+			});
+
+			$martyBtn.click(function(){
+    			$martyModal.css("visibility","visible");
+    			$martyModal.css("opacity","1");
+			});
+
+			$dannBtn.click(function(){
+    			$dannModal.css("visibility","visible");
+    			$dannModal.css("opacity","1");
+			});
+
+			$modals.mousedown(function(e) {
+				var clicked = $(e.target);  //get the element clicked
+				if (clicked.is($modals)) {
+					$modals.css("visibility", "hidden");
+					$modals.css("opacity", "0");  //click happened outside the dialog, close it
+				}
+				else {
+					$modals.css("visibility", "hidden");
+					$modals.css("opacity", "0");  //click happened inside the dialog, close it
+				}
+			});
+			
 		// Disable animations/transitions until the page has loaded.
 			$body.addClass('is-loading');
 
