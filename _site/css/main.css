@@ -1806,6 +1806,10 @@ button,
       background-color: rgba(0, 0, 0, 0.315); }
     .features li:nth-child(10) {
       background-color: rgba(0, 0, 0, 0.35); }
+    .features li:nth-child(11) {
+      background-color: rgba(0, 0, 0, 0.385); }
+    .features li:nth-child(12) {
+      background-color: rgba(0, 0, 0, 0.42); }
     .features li:before {
       display: block;
       color: #00ffcc;
@@ -2686,7 +2690,7 @@ body.is-mobile.landing .wrapper.style4 {
 body.is-mobile.landing #footer {
   background-color: #1d242a; }
 
-/* Embedded Google Maps responsively */
+/* Embedded Google Maps, sound cloud, calendar, youtube videos, etc. responsively */
 .embed-wrapper {
   padding-bottom: 2rem; }
 
