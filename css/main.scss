@@ -894,10 +894,10 @@ $baseurl: '{{ site.baseurl }}/images';
 		width: 100%;
 
 		li {
-			@include padding(4em, 4em, (0,0,0,2em));
-			display: block;
+			@include padding(4em, 4em);
+			display: inline-block;
 			position: relative;
-			text-align: left;
+			text-align: center;
 			width: 50%;
 
 			@for $i from 1 through _misc(max-features) {
@@ -1857,3 +1857,29 @@ $baseurl: '{{ site.baseurl }}/images';
 	    width:100%;
 	    position:absolute;
 	}
+
+	/* Headshot photos for officers and instructors */
+	.headshot {
+		border-radius: 50%;
+		margin-right: auto;
+		margin-left: auto;
+		// display: inline-block;
+		// position: relative;
+		width: 70%;
+		max-width: 300px;
+		padding-bottom: 2rem;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

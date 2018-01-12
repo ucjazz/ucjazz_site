@@ -1781,10 +1781,10 @@ button,
   padding: 0;
   width: 100%; }
   .features li {
-    padding: 4em 4em 2em 6em ;
-    display: block;
+    padding: 4em 4em 2em 4em ;
+    display: inline-block;
     position: relative;
-    text-align: left;
+    text-align: center;
     width: 50%; }
     .features li:nth-child(1) {
       background-color: rgba(0, 0, 0, 0.035); }
@@ -2702,3 +2702,12 @@ body.is-mobile.landing #footer {
   height: 100%;
   width: 100%;
   position: absolute; }
+
+/* Headshot photos for officers and instructors */
+.headshot {
+  border-radius: 50%;
+  margin-right: auto;
+  margin-left: auto;
+  width: 70%;
+  max-width: 300px;
+  padding-bottom: 2rem; }
