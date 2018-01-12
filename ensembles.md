@@ -34,3 +34,25 @@ The group involves listening assignments, performance, history, theory, and comp
 #### Cal Alumni Big Band
 
 The Cal Alumni Big Band was established in 1980 with the intent of providing Cal grads and alumni of the Jazz Ensembles an outlet for playing big band music after leaving UC Berkeley. The band is open to talented musicians from all over the Bay Area but traditionally the vast majority of players are Cal grads. Check out the rehearsal if you would like to sit in and be a part of the band. The big band is managed by <a href="mailto:slind@stmarys-ca.edu">Sam Lind</a>. 
+
+## Spring 2018 Combos
+
+<div class="6u 12u$(medium)">
+	<ul class="actions">
+		<li><a href="combo_list.html" class="button fit">View Combo List</a></li>
+	</ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
