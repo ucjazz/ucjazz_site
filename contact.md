@@ -69,3 +69,7 @@ UC Jazz is located on the UC Berkeley campus in the basement level of the Cesar 
 	</div>
 </div>
 
+## Mailing List
+
+Click <a href="mailing_list.html">here</a> to view insutructions on managing your subscription to the UC Jazz mailing list.
+

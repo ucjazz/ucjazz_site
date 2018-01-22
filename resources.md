@@ -13,7 +13,7 @@ Combo rehearsals are held in the large and small jazz studios. Students may prac
 
 <!-- <span class="image left"><img src="images/keys.jpg" alt="" /></span>
  -->
-UC Jazz members generally provide their own instruments, but some instruments are available. Thanks to a generous donation by the Cal Alumni Big Band, we have a new Yamaha vibraphone set. We also have two drum kits, a double-bass, an upright and grand piano, and several amplifiers for guitarists, bassists, and singers.
+UC Jazz members generally provide their own instruments, but some instruments are available. Thanks to a generous donation by the Cal Alumni Big Band, we have a new Yamaha vibraphone set. We also have two drum kits, a double-bass, an upright and grand piano, and several amplifiers for guitarists and bassists.
 
 We only provide equipment for on and off campus UC Jazz gigs. We do not lend out equipment for personal gigs! If you need any equipment for a gig, it must be sponsored by UC Jazz and go through the booking process.
 
