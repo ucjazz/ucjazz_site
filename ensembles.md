@@ -17,7 +17,7 @@ Advanced combos consist of the top players in UC Jazz Ensembles. Placement in th
 
 Intermediate combos work on improvisation skills and focus on standard repertoire including tunes like "On Green Dolphin Street," "Confirmation," "All the Things You Are," etc. These musicians should have a good facility on their instruments and know the fundamentals of jazz harmony, including diatonic modes and common chord progressions. They should understand the swing feel and be able to improvise over forms such as the twelve-bar blues. These students usually have participated in high school or college groups.
 
-#### DeCal Combos
+#### Beginning Combos
 
 The DeCal Jazz Combos are student taught combos/courses which are intended for students who want to learn jazz, but have limited experience or come from different musical backgrounds. At the each of semester a noon concert will be held, depending on how far the students have progressed. Students are encouraged to audition for the intermediate combos after taking one or two semesters of the Beginning Jazz Combos.
 
@@ -30,6 +30,16 @@ Auditions take place in 74 Cesar Chavez (basement of Cesar Chavez where UC Jazz 
 Rehearsal times are typically MWT 7-9, with each day corresponding to a different section, but we only set this concretely after auditions have taken place. Instrumentation typically consists of piano, bass, drums, guitar, saxophone, trumpet, clarinet, trombones, with flexibility of including strings, vocalists, and other instruments.
 
 The group involves listening assignments, performance, history, theory, and composition. We would like to make the class social and form a community of sorts, so outside collective music practicing is highly encouraged. Participants will be considered members of UC Jazz and Student Musical activities, and will gain acess to practice rooms with the ability to reserve space for rehearsals. UC Jazz members must pay dues of $85 per semester of membership.
+
+<div class="box alt">
+	<div class="row uniform 50%">
+		<div class="4u"><span class="image fit"><img src="images/workshop/workshop2.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="images/workshop/workshop1.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="images/workshop/workshop3.jpg" alt="" /></span></div>
+	</div>
+</div>
+
+<blockquote>Two members of the Jazz at Lincoln Center band, Greg Gisbert and Eliot Mason, visit UC Jazz for an inspired workshop.</blockquote>
 
 #### Cal Alumni Big Band
 

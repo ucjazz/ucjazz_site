@@ -3,7 +3,7 @@ layout: page
 title: Datebook
 ---
 
-UC Jazz rehearsals, gigs, and concerts are posted here. Additional information about each event, including specific times, locations, and tickets, can be found by clicking on the event name.
+UC Jazz gigs and concerts are posted here. Additional information about each event, including specific times, locations, and tickets, can be found by clicking on the event name.
 
 <div class="embed-wrapper">
 	<div class="embed-responsive">

@@ -11,7 +11,7 @@ description: |
 
 owner: UC Jazz # or company name
 #first_published: 2016 # if migrating another site, the year of your first publish
-email: ucjazzensembles@gmail.com
+email: tmoore@ucjazz.berkeley.edu 
 
 # # for staging on github pages
 # baseurl: "/ucjazz_site" # the subpath of your site, e.g. /blog

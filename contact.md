@@ -24,17 +24,17 @@ To make a contribution, please contact Director Ted Moore through the contact fo
 		<div class="6u$ 12u$(xsmall)">
 			<input type="email" name="email" id="demo-email" value="" placeholder="Email" />
 		</div>
-		<div class="12u$">
+		<!-- <div class="12u$">
 			<div class="select-wrapper">
 				<select name="category" id="demo-category">
-					<option value="">- Category -</option>
+					<option value="category">- Category -</option>
 					<option value="booking">Booking</option>
 					<option value="donations">Donations</option>
 					<option value="student inquiries">Student Inquiries</option>
 					<option value="other">Other</option>
 				</select>
 			</div>
-		</div>
+		</div> -->
 		<div class="12u$">
 			<textarea name="message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
 		</div>
