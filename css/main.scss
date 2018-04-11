@@ -902,7 +902,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 			// with 12 the number of officers! How can we do this automatically?
 			// i.e. get the length of the <ul> called features with SCSS?
-			@for $i from 1 through 12 {
+			@for $i from 1 through 16 {
 				$j: 0.035 * $i;
 
 				&:nth-child(#{$i}) {
