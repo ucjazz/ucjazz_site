@@ -62,7 +62,7 @@ If you know that you cannot make it to a rehearsal, please notify Ted as far in 
 
 ## Dues
 
-UC Jazz charges dues each semester (currently $85 per semester) to cover use of instruments, amps, drums, etc. and also use of practice rooms. This applies to all members of UC Jazz, undergrad students, grad students, community members and DeCal.
+UC Jazz charges dues each semester (currently $95 per semester) to cover use of instruments, amps, drums, etc. and also use of practice rooms. This applies to all members of UC Jazz, undergrad students, grad students, community members and DeCal.
 
 ## Leadership Positions
 
