@@ -2,6 +2,11 @@
 layout: page
 title: Join
 ---
+## Fall 2018 Auditions
+UC Jazz auditions for the <a href="datebook.html">2018/2019 school year</a> will be held on:
+* Monday, Aug 27  10am-4pm
+* Tuesday, Aug 28  10am-4pm
+* Wednesday, Aug 29  10am-2pm
 
 ## Audition Requirements
 
