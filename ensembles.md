@@ -5,6 +5,17 @@ title: Ensembles
 
 ## Combo Groups
 
+#### Fall 2018 Schedule
+* **Ted Moore Advanced:** Wed 1-3
+* **Frank Martin advanced:** Wed 3-5
+* **Dann Zinn Advanced:** Thurs 5-7
+* **Village Vanguard (Ted Moore):** Mon 11-1
+* **Blue Note (Ted Moore):** Fri 1-3
+* **Glenn Richman Intermediate:** Mon 4-6
+* **Ted Moore Intermediate:** Tues 2-4
+* **Marty Wehner Intermediate:** Wed 5-7
+* **Beginning Combos:** Mon and Wed 7-9
+
 #### Advanced Combos
 
 <span class="image left"><img src="images/band1.jpg" alt="" /></span>

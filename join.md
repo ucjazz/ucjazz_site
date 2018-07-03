@@ -8,6 +8,17 @@ UC Jazz auditions for the <a href="datebook.html">2018/2019 school year</a> will
 * Tuesday, Aug 28  10am-4pm
 * Wednesday, Aug 29  10am-2pm
 
+#### Fall 2018 Schedule
+* **Ted Moore Advanced:** Wed 1-3
+* **Frank Martin advanced:** Wed 3-5
+* **Dann Zinn Advanced:** Thurs 5-7
+* **Village Vanguard (Ted Moore):** Mon 11-1
+* **Blue Note (Ted Moore):** Fri 1-3
+* **Glenn Richman Intermediate:** Mon 4-6
+* **Ted Moore Intermediate:** Tues 2-4
+* **Marty Wehner Intermediate:** Wed 5-7
+* **Beginning Combos:** Mon and Wed 7-9
+
 ## Audition Requirements
 
 UC Jazz holds individual auditions for all new members. The list of audition requirements is intended to be comprehensive and to represent all levels of experience, and we know that not everyone will be able to fulfill all of the audition requirements. Come prepared to demonstrate as many of the requirements as possible. This will help us to determine which level is appropriate for you.

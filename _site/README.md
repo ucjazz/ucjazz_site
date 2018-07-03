@@ -4,6 +4,7 @@ The UC Jazz Ensembles website, built with Jekyll and hosted by OCF on campus at 
 
 ### Based on:
 
+```
 #### Spectral by HTML5 UP
 html5up.net | @n33co
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -56,3 +57,4 @@ n33.co @n33co dribbble.com/n33
 		Misc. Sass functions (@HugoGiraudel)
 		Respond.js (j.mp/respondjs)
 		Skel (skel.io)
+```
