@@ -24,7 +24,7 @@ Below are excerpts from the interview that took place on 10/14/18.
 
 <hr />
 
-#### When and why did you start play drums?
+#### When and why did you start playing drums?
 Well, it’s a funny story actually. I was in 6th grade and this girl that I liked joined band, and I wanted to be in band so we could hang out more. So, I joined and had no idea what I wanted to play. I didn’t really care because I just really wanted to be around this person. They gave me some options and let me try saxophone, percussion, and trumpet… but they needed more percussionists so I became a percussionist. Eventually, I started getting into it and caring more about it. I started with lessons from a neighbor and then real lessons, and then I got serious about it. It all just came from this random happenstance thing that made me realize how cool music was. It turned out to be a really special place for me to be. I would always go into the band room and hangout with people and play music. It became the first thing that I actually cared about. 
 
 #### Did you have any musical inspirations as you grew up?
