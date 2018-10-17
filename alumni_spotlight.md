@@ -18,7 +18,7 @@ We recently had a chance to talk with UC Berkeley and UC Jazz Alumnus, Jacob Ric
 * 10/22 at Bottom of the Hill in San Francisco 
 * 10/23 at Fort Gallica in Santa Cruz 
 
-Keep up with Jacob and all of his musical adventures with the <a href="https://www.facebook.com/wearestandards" target="_blank">Standards</a> and <a href="https://www.facebook.com/batterydrums" target="_blank">BATTERY</a> Facebook pages, and through Instagram, @wearestandards and @_battery. You can also visit his website, <a href="https://www.jacobrichards.net/" target="_blank">jacobrichards.net</a>. 
+Keep up with Jacob and all of his projects with the <a href="https://www.facebook.com/wearestandards" target="_blank">Standards</a> and <a href="https://www.facebook.com/batterydrums" target="_blank">BATTERY</a> Facebook pages, and through Instagram, @wearestandards and @_battery. You can also visit his website, <a href="https://www.jacobrichards.net/" target="_blank">jacobrichards.net</a>. 
 
 Below are excerpts from the interview that took place on 10/14/18.
 
