@@ -8,7 +8,10 @@ To sign up for an audition, visit the UC Jazz studios in the basement of the Ces
 * Tuesday, Aug 28  10am-4pm
 * Wednesday, Aug 29  10am-2pm
 
-#### Fall 2018 Schedule
+## Spring 2019 Auditions
+Auditions for most combos only take place in the Fall. There will be no auditions in Spring for the Beginning Combo due to the fact that the entire band from Fall will continue.
+
+#### Spring 2019 Schedule
 * **Ted Moore Advanced:** Wed 1-3
 * **Frank Martin advanced:** Wed 3-5
 * **Dann Zinn Advanced:** Thurs 5-7

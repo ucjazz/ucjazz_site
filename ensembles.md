@@ -5,7 +5,7 @@ title: Ensembles
 
 ## Combo Groups
 
-#### Fall 2018 Schedule
+#### Spring 2019 Schedule
 * **Ted Moore Advanced:** Wed 1-3
 * **Frank Martin advanced:** Wed 3-5
 * **Dann Zinn Advanced:** Thurs 5-7
@@ -56,7 +56,7 @@ The group involves listening assignments, performance, history, theory, and comp
 
 The Cal Alumni Big Band was established in 1980 with the intent of providing Cal grads and alumni of the Jazz Ensembles an outlet for playing big band music after leaving UC Berkeley. The band is open to talented musicians from all over the Bay Area but traditionally the vast majority of players are Cal grads. Check out the rehearsal if you would like to sit in and be a part of the band. The big band is managed by <a href="mailto:slind@stmarys-ca.edu">Sam Lind</a>. 
 
-## Spring 2018 Combos
+## Spring 2019 Combos
 
 <div class="6u 12u$(medium)">
 	<ul class="actions">
