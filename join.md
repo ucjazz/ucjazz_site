@@ -85,7 +85,7 @@ UC Jazz charges dues each semester (currently $95 per semester) to cover use of 
 
 ## Leadership Positions
 
-In addition to playing in our combos, you can become even more involved by joining the committee of student officers within UC Jazz. Elections for president, vice-president, and the other officer positions are held each year during the spring semester.
+In addition to playing in our combos, you can become even more involved by joining the committee of student officers within UC Jazz. UC Jazz student officers have had a big impact on the program over the years and becoming an officers gives you the opportunity to directly affect department activities.
 
 ## Music Department Credit
 
