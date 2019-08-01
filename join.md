@@ -2,16 +2,16 @@
 layout: page
 title: Join
 ---
-## Fall 2018 Auditions
-To sign up for an audition, visit the UC Jazz studios in the basement of the Cesar Chavez building and write your name in a time slot on the bulletin board. UC Jazz auditions for the <a href="datebook.html">2018/2019 school year</a> will be held on:
-* Monday, Aug 27  10am-4pm
-* Tuesday, Aug 28  10am-4pm
-* Wednesday, Aug 29  10am-2pm
+## Fall 2019 Auditions
+To sign up for an audition, visit the UC Jazz studios in the basement of the Cesar Chavez building (at the end of the hall) and write your name in a time slot on the bulletin board. UC Jazz auditions for the <a href="datebook.html">2019/2020 school year</a> will be held on:
+* Tuesday, Sep 3  10am-3pm
+* Wednesday, Sep 4  10am-3pm
+* Thursday, Sep 5  10am-1pm
 
-## Spring 2019 Auditions
+## Spring 2020 Auditions
 Auditions for most combos only take place in the Fall. There will be no auditions in Spring for the Beginning Combo due to the fact that the entire band from Fall will continue.
 
-#### Spring 2019 Schedule
+#### Fall/Spring 2019-2020 Schedule
 * **Ted Moore Advanced:** Wed 1-3
 * **Frank Martin advanced:** Wed 3-5
 * **Dann Zinn Advanced:** Thurs 5-7
